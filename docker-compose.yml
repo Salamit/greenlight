@@ -1,9 +1,9 @@
 version: '3'
-
+#old
 services:
   app:
     entrypoint: [bin/start]
-    image: bigbluebutton/greenlight:v2
+    image: aihe20200415:release-v2
     container_name: greenlight-v2
     env_file: .env
     restart: unless-stopped
