@@ -228,7 +228,7 @@ nl:
     designs: Aangepaste ontwerpen
     authentication: Gebruikersverificatie
   footer:
-    powered_by: "Mogelijk gemaakt door %{href}."
+    powered_by: "Mogelijk gemaakt door Aihe."
   forgot_password:
     subtitle: Wachtwoord vergeten
     email: E-mail
