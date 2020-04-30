@@ -259,7 +259,7 @@ ja_JP:
     search:
       start: 検索開始...
   landing:
-    about: "%{href}は、オープンソースWeb会議サーバ BigBlueButton のシンプルなフロントエンドです。 自分の会議室を作成してセッションを主催したり、便利なリンクを使用して他のユーザが参加したりできます。"
+    about: "Aihe Spacesは便利で簡単なオンラインミーティングスペースです。会議をホストしたり、短いリンクを使い会議に参加することができます"
     welcome: Aihe Spaces へようこそ
     video: Greenlightの使い方に関するチュートリアルを見る
     upgrade: 2.0にアップグレードする方法を教えて！
