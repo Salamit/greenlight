@@ -260,7 +260,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "Aihe Spaces is a simple online meeting space. You can create your own rooms to host online meeting sessions, or join others using a short and convenient link. Request access here - https://bit.ly/I-want-access"
+    about: "Aihe Spaces is a simple online meeting space. You can create your own rooms to host online meeting sessions, or join others using a short and convenient link. Request access here <a href="https://bit.ly/3f7IGVF"> here </a> "
     welcome: Welcome to Aihe Spaces.
     video: 
     upgrade: Show me how to upgrade to 2.0!
